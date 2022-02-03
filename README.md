@@ -1,5 +1,5 @@
 # WEEDO TINA2 Firmware
-![image](http://www.weedo.ltd/wp-content/uploads/2018/09/tina2front.png)
+![image](http://www.weedo.ltd/wp-content/uploads/2019/11/TINA2.jpg)
 
 ## Summary
 This is the repository that contains the firmware for the TINA2 3D Printer. 
