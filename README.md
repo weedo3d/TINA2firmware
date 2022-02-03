@@ -1,4 +1,4 @@
-# WEEDO TINA2 Firmware
+# TINA2 Firmware
 ![image](http://www.weedo.ltd/wp-content/uploads/2019/11/TINA2.jpg)
 
 ## Summary
